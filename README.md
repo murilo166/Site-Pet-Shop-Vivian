@@ -3,7 +3,7 @@ Neste projeto ,criei um site de um pet shop,que é de uma emresa majoritariament
  ,ver opçoes de cachorros disponiveis para adoção e comprar alguns produtos da loja
 
 ## linguagens utilizadas
-esse é o meu primeiro projeto,utilizei somente HTML e CSS para a construção das páginas
+esse é o meu primeiro site,utilizei somente HTML e CSS para a construção das páginas
 
 # Como utilizar?
 1.Faça o dowload dos arquivos em zip
